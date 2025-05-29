@@ -12,6 +12,22 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+#text-1 {
+
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    left: 800px;
+    border: 2px flex;
+    background-color: #64eec5;
+    border-radius: 7%;
+    text-align: center;
+    width: 200px;
+    height: 20px;
+    text-decoration: none;
+    color: inherit;
+    padding: 13px;
+}
+
 .tudo {
   background-color: #fff1f1;
   border: 2px solid #000;
