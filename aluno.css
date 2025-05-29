@@ -28,6 +28,11 @@ body {
   margin-bottom: 20px;
 }
 
+.Texto-Config p{
+
+  text-align: justify;
+}
+
 .meuslinks img {
   width: 40px;
   height: 40px;
